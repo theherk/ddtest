@@ -1,0 +1,8 @@
+[package]
+name = "ddtest"
+version = "0.1.0"
+authors = ["Adam Sherwood <theherk@gmail.com>"]
+
+[dependencies]
+dipstick = "0.6.5"
+lazy_static = "1.0"
